@@ -1,0 +1,5 @@
+['remote "windows"']
+    url = gdrive://1jBIO1CAi6tZaI2FsWFKpTO6Pzkj_QSjY/
+    gdrive_acknowledge_abuse = true
+['remote "test"']
+    url = E:\Windows\remote
