@@ -1,5 +1,9 @@
 ['remote "windows"']
     url = gdrive://1jBIO1CAi6tZaI2FsWFKpTO6Pzkj_QSjY/
     gdrive_acknowledge_abuse = true
-['remote "test"']
-    url = E:\Windows\remote
+['remote "linux"']
+    url = gdrive://1tgIf8O0eU2GU6IvScjnHqyWDcCy-6iF3
+    gdrive_acknowledge_abuse = true
+['remote "jetson"']
+    url = gdrive://1NwEoy-nCVNMP-QGw_e3vyJ6-m59mOTcW
+    gdrive_acknowledge_abuse = true
