@@ -17,7 +17,7 @@ each remote is paired with a remote folder on google drive
 # How to push
 
 ## Windows
-
+dcv add path/to/windows
 dvc push windows.dvc -r windows
 ## Linux 
 
