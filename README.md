@@ -23,6 +23,15 @@ This is useful because the deps folder are changed once in a while and we do not
 of this libraries
  
 
+# Current Library Version
+
+Libtorch 2.0.0
+Torchvision 0.15.2
+OnnxRuntime 1.13.1
+Opencv 4.7 Windows 4.4 Linux 4.2 Jetson
+
+
+
 # How to push
 
 ## Windows
